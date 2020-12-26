@@ -1,5 +1,5 @@
 # ProgramforOOP
-For this croject I use JavaFX and  MySQL database to store user data via JDBC API.
+For this project I use JavaFX and  MySQL database to store user data via JDBC API.
 This JavaFX application will have a registration form where users can enter their details and then submit the form. When the user submits the form, the form data will be stored in MySQL database via JDBC API.
 
 This program is an example of a registration form. Program is pretty simple but also it match all the requirements mentioned by teacher. 
