@@ -18,3 +18,8 @@ If you write eerything correctly in each block the program will Welcome you.
 In case if something went wrong, it will show a error, so you will know what should you fix.
 
 ![изображение](https://user-images.githubusercontent.com/60453904/103145250-4fbb3200-4761-11eb-9010-9c7ff07ec234.png)
+
+Here is the video presentation.
+
+
+[![Watch the video](https://img.youtube.com/vi/7JS_l6zNnCs/maxresdefault.jpg)](https://youtu.be/7JS_l6zNnCs)
